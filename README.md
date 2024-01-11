@@ -4,6 +4,10 @@ A Roll Dice App  designed and built using the Flutter framework, which allows us
 
 ## Application Screenshots
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-11 at 15 42 03](https://github.com/nafiuyakubu/flutter-roll-dice-app/assets/19759653/5bd13389-7e9b-4700-ab93-c0e8e4957aae)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-11 at 15 42 07](https://github.com/nafiuyakubu/flutter-roll-dice-app/assets/19759653/f2afd588-d0f8-4b4b-b307-c0a894002292)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-11 at 15 42 13](https://github.com/nafiuyakubu/flutter-roll-dice-app/assets/19759653/59800b9c-2cfc-45f3-8022-d10627f5e3d4)
+
+![ScreenShot1](https://github.com/nafiuyakubu/flutter-roll-dice-app/assets/19759653/5d260f70-8bef-4808-8377-9fbf4b576584)
+
+![ScreenShot2](https://github.com/nafiuyakubu/flutter-roll-dice-app/assets/19759653/30bf5c20-af71-4409-ab96-73dbae846959)
+
+![ScreenShot3](https://github.com/nafiuyakubu/flutter-roll-dice-app/assets/19759653/48619a1a-a593-42b5-9db8-7a688ce87835)
+
